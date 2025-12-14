@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Test Helper</string>
+    <string name="start_button">Начать</string>
+    <string name="settings_button">Настройки</string>
+    <string name="new_folder_button">Добавить новую папку</string>
+    <string name="default_settings_button">По-умолчанию</string>
+    <string name="mix_questions_switch">Перемешивать вопросы</string>
+    <string name="mix_answers_switch">Перемешивать ответы</string>
+    <string name="question_pull_size_hint">Сколько вопросов спрашивать?</string>
+    <string name="question_pull_size_hint_text_field">Введите положительное число. (0 - спрашивать все)</string>
+    <string name="delayed_period_hint">Время задержки</string>
+    <string name="delayed_period_hint_text_field">Введите положительное число (в секундах)</string>
+    <string name="text_size_hint">Размер текста</string>
+    <string name="text_size_hint_text_field">Укажите размер текста. (по-умолчанию - 14)</string>
+    <string name="show_answers_switch">Показывать тип ответа (+ или - перед вопросом)</string>
+    <string name="show_failed_switch">Показывать правильные ответы после ответа на вопрос</string>
+    <string name="confirm_settings_button">Принять</string>
+    <string name="main_settings_text">Главное</string>
+    <string name="interface_settings_text">Настройки интерфейса</string>
+    <string name="question_count_text">Всего вопросов: </string>
+    <string name="question_percent_text">Правильных: </string>
+    <string name="current_question_number_text">Вопрос №: </string>
+    <string name="back_to_previous_button">Назад</string>
+    <string name="confirm_folder">Принять</string>
+    <string name="delete_button">Удалить</string>
+    <string name="current_question_number">Вопрос №: </string>
+    <string name="question_pull">Всего вопросов: </string>
+    <string name="right_percent">Правильных: </string>
+
+    <string name="mini_question_text">Это пример вопроса.</string>
+    <string name="mini_question_percent">Процент пр.:</string>
+    <string name="mini_question_pull_size">Всего вопр.:</string>
+    <string name="mini_question_current">Вопрос №: </string>
+    <string name="mini_question_answer_1">Ответ №1</string>
+    <string name="mini_question_answer_2">Ответ №2</string>
+    <string name="mini_question_answer_3">Ответ №3</string>
+    <string name="mini_question_answer_4">Ответ №4</string>
+    <string name="mini_question_next_button">Следующий</string>
+
+    <string name="mini_question_layout_text">Тип интерфейса</string>
+    <string name="mini_question_layout_check_default">Кнопки</string>
+    <string name="mini_question_layout_check_classic">Галочки</string>
+
+    <string name="developer_mode">Настройки разработчика</string>
+    <string name="multi_check_switch">Разрешить выбирать несколько ответов, если правильный один (для галочек)</string>
+    <string name="show_wrong_questions">Показывать список с вопросами, на который был дан неправильный ответ</string>
+
+    <string name="testing_is_over">Тестирование окончено</string>
+    <string name="you_result_is">Твой результат</string>
+    <string name="total_questions_were_asked">Всего вопросов задано</string>
+    <string name="show_wrong_questions_button">Показать неправильные вопросы</string>
+    <string name="back_to_main_screen_button">На главный экран</string>
+
+
+</resources>

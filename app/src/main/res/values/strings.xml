@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Test Helper</string>
+    <string name="start_button">Start</string>
+    <string name="settings_button">Settings</string>
+    <string name="new_folder_button">Add folder</string>
+    <string name="default_settings_button">Default</string>
+    <string name="mix_questions_switch">Mix questions</string>
+    <string name="mix_answers_switch">Mix answers</string>
+    <string name="question_pull_size_hint">How many questions to ask?</string>
+    <string name="question_pull_size_hint_text_field">Enter a positive number. (0 - ask all)</string>
+    <string name="delayed_period_hint">Delay time</string>
+    <string name="delayed_period_hint_text_field">Enter a positive number (in seconds)</string>
+    <string name="text_size_hint">Text size</string>
+    <string name="text_size_hint_text_field">Specify the size of the text. (default is 14)</string>
+    <string name="show_answers_switch">Show answers (+ or - before the question)</string>
+    <string name="show_failed_switch">Show correct answers after answering a question</string>
+    <string name="confirm_settings_button">Confirm</string>
+    <string name="main_settings_text">Main settings</string>
+    <string name="interface_settings_text">Interface settings</string>
+    <string name="question_count_text">Count All</string>
+    <string name="question_percent_text">Percent</string>
+    <string name="current_question_number_text">Current Number</string>
+    <string name="back_to_previous_button">Back</string>
+    <string name="confirm_folder">Apply</string>
+    <string name="delete_button">Delete</string>
+    <string name="current_question_number">Question №: </string>
+    <string name="question_pull">Total questions: </string>
+    <string name="right_percent">Percent: </string>
+
+    <string name="mini_question_text">This is example question text field.</string>
+    <string name="mini_question_percent">R. A. Percent:</string>
+    <string name="mini_question_pull_size">T. Question:</string>
+    <string name="mini_question_current">C. Question: </string>
+    <string name="mini_question_answer_1">Answer №1</string>
+    <string name="mini_question_answer_2">Answer №2</string>
+    <string name="mini_question_answer_3">Answer №3</string>
+    <string name="mini_question_answer_4">Answer №4</string>
+    <string name="mini_question_next_button">Next</string>
+
+    <string name="mini_question_layout_text">Interface appearance</string>
+    <string name="mini_question_layout_check_default">Default</string>
+    <string name="mini_question_layout_check_classic">Check boxes</string>
+
+    <string name="developer_mode">Developer features</string>
+    <string name="multi_check_switch">Allow to mark several answers if only one is correct</string>
+    <string name="show_wrong_questions">Show a list of questions in which an error was made, after testing</string>
+
+    <string name="testing_is_over">Testing is over</string>
+    <string name="you_result_is">You result is</string>
+    <string name="total_questions_were_asked">Total questions were asked</string>
+    <string name="show_wrong_questions_button">Show wrong questions</string>
+    <string name="back_to_main_screen_button">Back to main screen</string>
+
+
+</resources>
